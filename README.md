@@ -1,5 +1,5 @@
 # in this repo we are trying to talk about few programming terms that will mostly used in our regular day to day life. 
-- 1. Closure
+  1. Closure
   2. first-class funtions
   3. mutable and immutable
   4. memoization for optimization problem ---> mostly we will see this dp
